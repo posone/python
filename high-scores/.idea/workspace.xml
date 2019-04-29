@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/../matrix/matrix_to_testfile.py" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6756f376-6995-47a1-a6f8-0417eb70b0b9" name="Default Changelist" comment="" />
+    <list default="true" id="6756f376-6995-47a1-a6f8-0417eb70b0b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../matrix/matrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -34,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../matrix/matrix_to_testfile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="493">
+              <caret line="29" column="44" lean-forward="true" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -51,6 +54,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -68,27 +74,12 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="high-scores" type="b2602c69:ProjectViewProjectNode" />
-              <item name="high-scores" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="high-scores" type="b2602c69:ProjectViewProjectNode" />
-              <item name="high-scores" type="462c0819:PsiDirectoryNode" />
-              <item name=".exercism" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -105,10 +96,26 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="high-scores" type="b2602c69:ProjectViewProjectNode" />
+              <item name="high-scores" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="high-scores" type="b2602c69:ProjectViewProjectNode" />
+              <item name="high-scores" type="462c0819:PsiDirectoryNode" />
+              <item name=".exercism" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../matrix/matrix.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hamming" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -127,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.matrix_to_testfile">
+  <component name="RunManager" selected="Python.matrix_test">
     <configuration name="high_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="high-scores" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -228,9 +235,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.matrix_to_testfile" />
         <item itemvalue="Python.matrix_test" />
         <item itemvalue="Python.matrix" />
+        <item itemvalue="Python.matrix_to_testfile" />
         <item itemvalue="Python tests.Unittests in high_scores_test.py" />
         <item itemvalue="Python.high_test" />
       </list>
@@ -306,7 +313,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32932165" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32932165" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -360,10 +367,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../matrix/matrix.py">
+    <entry file="file://$PROJECT_DIR$/../matrix/matrix_to_testfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        <state relative-caret-position="493">
+          <caret line="29" column="44" lean-forward="true" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -377,10 +384,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../matrix/matrix_to_testfile.py">
+    <entry file="file://$PROJECT_DIR$/../matrix/matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
