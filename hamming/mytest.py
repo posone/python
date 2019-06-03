@@ -1,6 +1,6 @@
 A='DASDSAFASDFAZ'
 B='DFADSAFXCCDSZ'
-
+#PULLME20190603
 print(len(A))
 print(B)
 c = 0
