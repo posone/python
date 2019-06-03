@@ -1,4 +1,4 @@
-#python
+<b>#python</b>
 1. git init  (Once you're inside the folder. Only required once)
 2. git add .
 3. git commit -m 'Your message'
