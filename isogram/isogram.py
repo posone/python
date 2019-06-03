@@ -1,4 +1,5 @@
 def is_isogram(string):
+    #todobyPawel
     string = string.lower().replace(' ', '').replace('-', '')
     print(len(set(string)))
     print(len(string))
