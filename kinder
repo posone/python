@@ -9,8 +9,8 @@ def plants(garden, name):
             #print(students.index(i))
             first = garden[students.index(i) * 2]
             second = garden[(students.index(i) * 2) + 1]
-            third = garden[students.index(i) + 24]
-            fourth = garden[(students.index(i) + 24) + 1]
+            third = garden[(students.index(i) * 2) + 24]
+            fourth = garden[(students.index(i) * 2 )+ 25]
             return {print(flowers[first], flowers[second], flowers[third], flowers[fourth])}
 
-plants('VRCGVVRVCGGCCGVRGCVCGCGV\nVRCGVVRVCGGCCGVRGCVCGCGV', 'Alice')
+plants('VRCGVVRVCGGCCGVRGCVCGCGVVRCCCGCRRGVCGCRVVCVGCGCV', 'Bob')
