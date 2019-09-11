@@ -1,0 +1,13 @@
+def plants(garden, name):
+    students = ['Alice', 'Bob', 'Charlie', 'David', 'Eve', 'Fred', 'Ginny', 'Harriet', 'Ileana', 'Joseph',
+                'Kincaid', 'Larry', 'another']
+    for i in students:
+        if name not in students:
+            raise Exception("there is not student like this!")
+        if i == name:
+            print(students.index(i))
+            first = garden[students.index(i) * 2]
+            second = garden[(students.index(i) * 2) + 1]
+            return {print(first, second)}
+
+plants('VRCGVVRVCGGCCGVRGCVCGCGV', 'Alice')
