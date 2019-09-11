@@ -1,0 +1,22 @@
+from re import sub
+from typing import Dict, Any, Union
+
+
+def scrabble(word):
+    val_dict: Dict[Union[str, int]] = {'a': 1, 'e': 1, 'i': 1, 'o': 1, 'u': 1, 'l': 1, 'n': 1, 'r': 1, 's': 1, 't': 1,
+                                       'd': 2, 'g': 2, 'b': 3,
+                                       'c': 3, 'm': 3, 'p': 3, 'f': 4, 'h': 4, 'v': 4, 'w': 4, 'y': 4, 'k': 5, 'j,x': 8,
+                                       'q': 10, 'z': 10}
+    words = [i for i in sub(r'[^a-zA-Z\']', '', word.lower())]
+    print(words)
+    qz = "qz"
+    value = 0
+    for i in set(words):  # ==> return {i: words.count(i) for i in words}
+        print("for i:", i, words.count(i))
+        print(val_dict.get(i))
+        value = value + words.count(i) * val_dict.get(i)
+
+    return print(value)
+
+
+scrabble('qaqaqaqaqaq')
