@@ -6,6 +6,8 @@ def abbreviate(words):
         #print (abb)
     return print (abb)
 
+#work with Pawel
+
 
 
 abbreviate ("TheRoad _Not_ Taken")
