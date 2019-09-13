@@ -7,8 +7,9 @@ def distance(strand_a, strand_b):
         for i, j in dna:
             if i !=j:
               distance += 1
-        return distance
-pass
+        return print(distance)
+
+distance ("asdf","zxcv")
 
 
 #def distance(strand1, strand2):

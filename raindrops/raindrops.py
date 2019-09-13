@@ -8,6 +8,6 @@ def raindrops(number):
         str_list += 'Plong'
     if len(str_list) == 0:
         str_list += str(number)
-    return str_list
+    return print(str_list)
+raindrops(9)
 
-    pass
