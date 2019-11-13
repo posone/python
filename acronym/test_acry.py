@@ -7,6 +7,7 @@ def abbreviate(words):
     return print (abb)
 
 #work with Pawel
+#work at cap 13.11.19
 
 
 
