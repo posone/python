@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f6080e2-f3cc-4075-96cb-3a274230a5fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../luhn/luhn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../luhn/luhn.py" afterDir="false" />
+    <list default="true" id="5a776d23-fe69-45f5-96d8-2b6e13c380bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/luhn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acronym/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../acronym/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/luhn.py" beforeDir="false" afterPath="$PROJECT_DIR$/luhn.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,14 +16,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/luhn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/luhn_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -26,8 +45,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_acry.py" />
-        <option value="$PROJECT_DIR$/acronym.py" />
+        <option value="$PROJECT_DIR$/luhn.py" />
       </list>
     </option>
   </component>
@@ -43,23 +61,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="acronym" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acronym" type="462c0819:PsiDirectoryNode" />
+              <item name="luhn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luhn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luhn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luhn" type="462c0819:PsiDirectoryNode" />
+              <item name=".exercism" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../luhn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -73,9 +97,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in acronym_test.py">
-    <configuration name="acronym" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="acronym" />
+  <component name="RunManager" selected="Python tests.Unittests in luhn_test.py">
+    <configuration name="luhn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luhn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -86,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/acronym.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luhn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,8 +119,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_acry" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="acronym" />
+    <configuration name="luhn_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luhn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -104,10 +128,10 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_acry.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luhn_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,8 +140,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in acronym_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="acronym" />
+    <configuration name="Unittests in luhn_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="luhn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -126,15 +150,15 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/acronym_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/luhn_test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in acronym_test.py" />
-        <item itemvalue="Python.test_acry" />
-        <item itemvalue="Python.acronym" />
+        <item itemvalue="Python tests.Unittests in luhn_test.py" />
+        <item itemvalue="Python.luhn" />
+        <item itemvalue="Python.luhn_test" />
       </list>
     </recent_temporary>
   </component>
@@ -143,79 +167,87 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3f6080e2-f3cc-4075-96cb-3a274230a5fb" name="Default Changelist" comment="" />
-      <created>1548000023314</created>
+      <changelist id="5a776d23-fe69-45f5-96d8-2b6e13c380bf" name="Default Changelist" comment="" />
+      <created>1568366329291</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548000023314</updated>
+      <updated>1568366329291</updated>
     </task>
+    <task id="LOCAL-00001" summary="vhj">
+      <created>1568367360989</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568367360989</updated>
+    </task>
+    <task id="LOCAL-00002" summary="vhjfh">
+      <created>1568367496484</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568367496484</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_acronym_test_py - 2019.01.23 at 18h 01m 41s.xml">
-      <configuration name="Unittests in acronym_test.py" configurationId="tests" />
+    <history-entry file="Unittests_in_luhn_test_py - 2019.09.13 at 11h 22m 29s.xml">
+      <configuration name="Unittests in luhn_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_acronym_test_py - 2019.01.23 at 18h 02m 46s.xml">
-      <configuration name="Unittests in acronym_test.py" configurationId="tests" />
+    <history-entry file="Unittests_in_luhn_test_py - 2019.09.13 at 11h 26m 42s.xml">
+      <configuration name="Unittests in luhn_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_acronym_test_py - 2019.01.23 at 18h 11m 31s.xml">
-      <configuration name="Unittests in acronym_test.py" configurationId="tests" />
+    <history-entry file="Unittests_in_luhn_test_py - 2019.09.13 at 11h 42m 22s.xml">
+      <configuration name="Unittests in luhn_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_acronym_test_py - 2019.01.23 at 18h 12m 04s.xml">
-      <configuration name="Unittests in acronym_test.py" configurationId="tests" />
+    <history-entry file="Unittests_in_luhn_test_py - 2019.09.13 at 11h 43m 58s.xml">
+      <configuration name="Unittests in luhn_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_luhn_test_py - 2019.09.13 at 11h 51m 59s.xml">
+      <configuration name="Unittests in luhn_test.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32932165" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32932165" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="vhj" />
+    <MESSAGE value="vhjfh" />
+    <option name="LAST_COMMIT_MESSAGE" value="vhjfh" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../hello-world/testHello.py">
+    <entry file="file://$PROJECT_DIR$/luhn_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/acronym_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="37" column="54" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="57" />
+        <state>
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_acry.py">
+    <entry file="file://$PROJECT_DIR$/luhn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/acronym.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>

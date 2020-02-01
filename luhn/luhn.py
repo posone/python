@@ -1,10 +1,13 @@
 class Luhn:
+    def __init__(self, number):
+        self.number = number
 
-    def valid(self, number):
-        number_ws = number.replace(" ", "")
+    def valid(self):
+        number_ws = self.number.replace(" ", "")
         #print("temp dlugosc: ", len(number_ws))
         if len(number_ws) == 1 or number_ws.isdigit() is False:
-            raise Exception("wrong value")
+            #raise Exception("wrong value")
+            return False
         final = []
         for i in range(0, len(number_ws), 2):
             temp = number_ws[i]
