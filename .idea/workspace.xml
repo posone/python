@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="382455a8-0b22-4059-a274-3a94bec80ace" name="Default Changelist" comment="Adding new project - DiceRolling">
-      <change afterPath="$PROJECT_DIR$/Kattis/Autori/Autori.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kattis/Heart Rate/Heart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kattis/Quality-Adjusted Life-Year/Quality.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kattis/Take Two Stones/Taketwo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kattis/Tarifa/Tarifa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kattis/Faktor/Faktor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kattis/Filip/Filip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kattis/Fizz/Fizz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kattis/Hissing Microphone/Hissing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kattis/Time Loop/Time Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kattis/Zamka/Zamka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kattis/Bijele/Bijele.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kattis/Bijele/Bijele.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kattis/Heart Rate/Heart.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kattis/Heart Rate/Heart.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,46 +21,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Kattis/Planina/Planina.py">
+        <entry file="file://$PROJECT_DIR$/Kattis/Heart Rate/Heart.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Kattis/Quality-Adjusted Life-Year/Quality.py">
+        <entry file="file://$PROJECT_DIR$/Kattis/Zamka/Zamka.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Kattis/Heart Rate/Heart.py">
+        <entry file="file://$PROJECT_DIR$/temp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state relative-caret-position="68">
+              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Kattis/Solving for Carrots/carrot.py">
+        <entry file="file://$PROJECT_DIR$/Kattis/Fizz/Fizz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Kattis/Quadrant Selection/Quadrant Selection.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            <state relative-caret-position="170">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -67,16 +60,7 @@
         <entry file="file://$PROJECT_DIR$/Kattis/Bijele/Bijele.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Kattis/Cold-puter Science/Cold-puter Science.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -112,14 +96,21 @@
         <option value="$PROJECT_DIR$/Kattis/Take Two Stones/Taketwo.py" />
         <option value="$PROJECT_DIR$/Kattis/Quality-Adjusted Life-Year/Quality.py" />
         <option value="$PROJECT_DIR$/Kattis/Heart Rate/Heart.py" />
+        <option value="$PROJECT_DIR$/Kattis/Hissing Microphone/Hissing.py" />
+        <option value="$PROJECT_DIR$/Kattis/Filip/Filip.py" />
+        <option value="$PROJECT_DIR$/Kattis/Faktor/Faktor.py" />
+        <option value="$PROJECT_DIR$/Kattis/Time Loop/Time Loop.py" />
+        <option value="$PROJECT_DIR$/Kattis/Fizz/Fizz.py" />
+        <option value="$PROJECT_DIR$/Kattis/Zamka/Zamka.py" />
+        <option value="$PROJECT_DIR$/temp.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="376" />
+    <option name="y" value="2" />
     <option name="width" value="976" />
-    <option name="height" value="1056" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -133,17 +124,6 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="Kattis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="Kattis" type="462c0819:PsiDirectoryNode" />
-              <item name="Heart Rate" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,8 +153,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Heart">
-    <configuration name="Bijele" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.temp">
+    <configuration name="Faktor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kattis/Bijele" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kattis/Faktor" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kattis/Bijele/Bijele.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kattis/Faktor/Faktor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Heart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Fizz" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,11 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kattis/Heart Rate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kattis/Fizz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kattis/Heart Rate/Heart.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kattis/Fizz/Fizz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Quality" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Time Loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,11 +204,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kattis/Quality-Adjusted Life-Year" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kattis/Time Loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kattis/Quality-Adjusted Life-Year/Quality.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kattis/Time Loop/Time Loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="R2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Zamka" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,11 +225,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kattis/R2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kattis/Zamka" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kattis/R2/R2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kattis/Zamka/Zamka.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tarifa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,11 +246,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kattis/Tarifa" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kattis/Tarifa/Tarifa.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Heart" />
-        <item itemvalue="Python.Quality" />
-        <item itemvalue="Python.R2" />
-        <item itemvalue="Python.Tarifa" />
-        <item itemvalue="Python.Bijele" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.Zamka" />
+        <item itemvalue="Python.Fizz" />
+        <item itemvalue="Python.Time Loop" />
+        <item itemvalue="Python.Faktor" />
       </list>
     </recent_temporary>
   </component>
@@ -320,14 +300,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="976" height="1056" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.46849757" side_tool="true" weight="0.24973656" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.5315024" visible="true" weight="0.25586355" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.5315024" visible="true" weight="0.1264489" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32932165" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32719395" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
@@ -335,8 +314,8 @@
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32936078" />
-      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32932165" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="9" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.32719395" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -344,9 +323,9 @@
     <layout-to-restore>
       <window_info id="Structure" order="0" sideWeight="0.46849757" side_tool="true" weight="0.24973656" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.5315024" visible="true" weight="0.25586355" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.5315024" visible="true" weight="0.25586355" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32932165" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32822758" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
@@ -354,8 +333,8 @@
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32936078" />
-      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32932165" />
-      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.32822758" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -484,13 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Kattis/Bijele/Bijele.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Kattis/Autori/Autori.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -512,10 +484,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Kattis/Hissing Microphone/Hissing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kattis/Faktor/Faktor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kattis/Time Loop/Time Loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kattis/Filip/Filip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Kattis/Heart Rate/Heart.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kattis/Fizz/Fizz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kattis/Bijele/Bijele.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kattis/Zamka/Zamka.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>

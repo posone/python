@@ -4,6 +4,11 @@ end = float()
 end1 = float()
 end2 = float()
 list1 = []
+def n_split(iterable, n, fillvalue=None):
+    num_extra = len(iterable) % n
+    zipped = zip(*[iter(iterable)] * n)
+    return zipped if not num_extra else zipped + [iterable[-num_extra:], ]
+
 for i in range(0,x):
     a,b = input().split()
     a = float(a)
@@ -14,5 +19,5 @@ for i in range(0,x):
     list1.append(end1)
     list1.append(end)
     list1.append(end2)
-print(
-    j for j in list1)
+for i in n_split(list1, 3):
+    print(' '.join(map(str, i)))
